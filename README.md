@@ -4,8 +4,8 @@
     - Back-End
     - Front-End 
     - DevOps 
-- 👀 I’m interested in Containers
-- 🌱 I’m currently learning k8s & containers
+- 👀 I’m interested in Containers & K8S & Cloud-Native Solutions
+- 🌱 I’m currently also learning Containers & K8S & Cloud-Native Solutions too!
 - 💞️ I’m looking to collaborate on :
   - Blockchain Programming
   - DevOps Cycle & Tools
