@@ -1,11 +1,13 @@
 ![alt text](github-header-image.png)
-- 👋 Hi, I’m Masoud Ehteshami Moeini
-- 👋 Software Developer 
+
+👋 Hi, I’m Masoud Ehteshami Moeini
+
+- Software Developer
   - Web Developmnet
     - Back-End
-    - Front-End 
-    - DevOps 
-    - Infra
+    - Front-End
+  - DevOps
+  - Infrastructure
 - 👀 I’m interested & working in cloud-native stacks ( Containers, Docker, K8S & Many Cloud-Native Solutions )
 - 🌱 I’m currently also learning everyday!
 - 💞️ I have experiences in many fields from 2003-4 & also looking to collaborate on :
