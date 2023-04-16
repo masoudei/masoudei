@@ -10,7 +10,7 @@
   - Infrastructure
 - 👀 I’m interested & working in cloud-native stacks ( Containers, Docker, K8S & Many Cloud-Native Solutions )
 - 🌱 I’m currently also learning everyday!
-- 💞️ I have experiences in many fields from 2003-4 & also looking to collaborate on :
+- 💞️ I have experience in many fields from 2003-4 & also looking to collaborate on :
   - DevOps Cycle & Tools
   - Automation Solutions
   - Containers & Cloud-Native Tools & Solutions
@@ -21,7 +21,7 @@
   - SQL / NoSQL / Graph Databases 
   - Microservices Architecture
   - HTML / JS / CSS / Bootstrap / Tailwind
-  - Wordpress / WooCommerce / Drupal
+  - WordPress / WooCommerce / Drupal
 
 - 📫 How to reach me : https://www.linkedin.com/in/masoudehteshami/
 
